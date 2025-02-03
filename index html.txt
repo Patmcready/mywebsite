@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patrick McReady</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+          font-size: 2em; /* Adjust as needed */
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            text-align: center; /* Center the links */
+        }
+
+        nav li {
+            display: inline; /* Make list items horizontal */
+            margin: 0 10px; /* Add some spacing between links */
+        }
+
+        nav a {
+            text-decoration: none; /* Remove underlines from links */
+            color: #007bff; /* Example link color */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Patrick McReady</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="about.html">About Me</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="resume.html">Resume</a></li>
+            <li><a href="https://www.linkedin.com/in/patrick-mcready-7333b5142/" target="_blank">LinkedIn</a></li> 
+        </ul>
+    </nav>
+
+</body>
+</html>
